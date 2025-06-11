@@ -344,6 +344,7 @@ hr {
 .resume-image-two {
     scale: 0.6;
     margin-top: -840px;
+    margin-bottom: -400px;
 }
 
 
@@ -2401,6 +2402,12 @@ html.no-csstransitions .home-content__main {
     overflow: hidden;
 }
 
+.zack {
+    scale: 0.37;
+    margin-top: -185px;
+    margin-bottom: -180px;
+}
+
 .item-folio__thumb img {
     vertical-align: top;
     -webkit-transition: all 0.5s ease-in-out;
@@ -3052,7 +3059,7 @@ html.no-csstransitions .home-content__main {
 
 .s-contact {
     background-color: #151515;
-    background-image: url("../images/contact-bg.jpg");
+    background-image: url("../images/wheel-2000.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 13.2rem;

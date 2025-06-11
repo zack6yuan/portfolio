@@ -335,6 +335,17 @@ hr {
     height: 0;
 }
 
+.resume-image {
+    scale: 0.6;
+    margin-top: -400px;
+    margin-left: 90px;
+}
+
+.resume-image-two {
+    scale: 0.6;
+    margin-top: -840px;
+}
+
 
 /* ------------------------------------------------------------------- 
  * ## Lists - (_document-setup.scss)  
